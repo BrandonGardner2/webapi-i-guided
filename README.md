@@ -16,4 +16,4 @@ The code for the guided project will be written in a single file for simplicity.
 - [ ] **CD into the folder** where you cloned **your fork**.
 - [ ] type `yarn` or `npm i` to download dependencies.
 
-Please follow along as the instructor builds the API step by step.
+Please follow along as the instructor builds the API step by step..
